@@ -22,7 +22,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  
-  <img align ="right" alt="Gabrielle" height="150" width="140" src="https://i.imgur.com/4H1HG5a.gif" >
+  <img align ="right" alt="Gabrielle" height="150" width="140" src="https://i.imgur.com/1QNBKRB.gif" >
 </div>
 
 ##
